@@ -3,7 +3,7 @@ cont = 0
 vet = []
 for i in range (0,10):
 	valor = int(input("Digite um valor: "))
-	vet.append(valor)
+	vet.append(valor)  #Não é permitido a utilização de funções de listas
 for i in range (0,10):
 	if vet[i] > maior:
 		cont = cont + 1
