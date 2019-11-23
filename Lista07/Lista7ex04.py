@@ -15,9 +15,9 @@ def crescente (vetor,tamanho):
             verificar = False
 
     if verificar:
-        print("\nO vetor  esta em ordem crescente")
+        print("\nO vetor está em ordem crescente.")
     else:
-        print("\nO vetor não esta em ordem crescente")
+        print("\nO vetor não está em ordem crescente.")
               
 lista = criar_vetor()
 
